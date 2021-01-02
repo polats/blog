@@ -19,11 +19,10 @@
 </style>
 
 <div>
-  <img src="profile-pic.png" alt="Maxi Ferreira">
+  <img src="profile-pic.png" alt="Paul Gadi">
   <p>
-    Hi, I'm <strong>Maxi</strong>. I'm a software engineer and data scientist from Córdoba, Argentina.
-    You can follow me on <a href="https://www.twitter.com/Charca" target="_blank">Twitter</a>,
-    see some of my work on <a href="https://www.github.com/Charca" target="_blank">GitHub</a>,
-    or read more about me on <a href="https://www.maxiferreira.com" target="_blank">my website</a>.
+    👋 Hi, I'm <strong>Paul</strong>.
+    You can follow me on <a href="https://www.twitter.com/polats" target="_blank">Twitter</a>,
+    or see some of my work on <a href="https://www.github.com/polats" target="_blank">GitHub</a>.
   </p>
 </div>
