@@ -4,7 +4,7 @@
   "version": "0.0.1",
   "scripts": {
     "dev": "sapper dev",
-    "build": "sapper export && rimraf docs && recursive-copy ./__sapper__/export docs",
+    "build": "sapper export --basepath blog --legacy && rimraf docs && recursive-copy ./__sapper__/export docs",
     "local": "npm run build && sirv docs",
     "start": "node __sapper__/build",
     "cy:run": "cypress run",
