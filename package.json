@@ -6,7 +6,6 @@
     "dev": "sapper dev",
     "build": "sapper export && rimraf docs && recursive-copy ./__sapper__/export docs",
     "local": "npm run build && sirv docs",
-    "export": "sapper export",
     "start": "node __sapper__/build",
     "cy:run": "cypress run",
     "cy:open": "cypress open",
