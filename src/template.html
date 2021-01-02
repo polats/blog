@@ -23,7 +23,19 @@
 	     the current page has one -->
 	%sapper.head%
 </head>
+
 <body>
+
+	<!-- Global site tag (gtag.js) - Google Analytics -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=G-PTEQRM1MTH"></script>
+	<script>
+	window.dataLayer = window.dataLayer || [];
+	function gtag(){dataLayer.push(arguments);}
+	gtag('js', new Date());
+
+	gtag('config', 'G-PTEQRM1MTH');
+	</script>
+
 	<!-- The application will be rendered inside this element,
 	     because `app/client.js` references it -->
 	<div id='sapper'>%sapper.html%</div>
