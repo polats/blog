@@ -6,6 +6,6 @@
   }
 </style>
 
-<a href="/">
+<a href="/blog">
   <img alt="Blog" src='icon.png'>
 </a>
