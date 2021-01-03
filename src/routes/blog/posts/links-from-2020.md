@@ -45,7 +45,7 @@ Side note: [No Man's Sky](https://store.steampowered.com/app/275850/No_Mans_Sky/
 
 Back in July 22, 2015, [Deadmau5](https://deadmau5.com/)' [Dieback Music Pack](https://www.dota2.com/store/itemdetails/11456/) was sold on the DOTA 2 / Steam Market.
 
-![Deadmau5](images/deadmau5.png)
+![Deadmau5](images/img_deadmau5.png)
 
 Now, more than 5 years later, Deadmau5 continues to innovate in the gaming and metaverse space. 
 
@@ -81,7 +81,7 @@ While it's a promising opportunity for creators, we should strive to [hold ideas
 
 And as dark sides go, sooner or later they will come into the light. This year, [The Social Dilemma](https://www.netflix.com/title/81254224) has helped in illuminating how Big Tech and social networks have monetized our attention.
 
-![Social Dilemma](images/socialdilemma.png)
+![Social Dilemma](images/img_socialdilemma.png)
 
 I remember when social networks were a force for creating positive change. As they've morphed to focus more on corporate interests, we should realize that both the current games industry and the developing Web 3.0 economies are similarly susceptible.
 
