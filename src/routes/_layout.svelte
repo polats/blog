@@ -52,7 +52,7 @@
       <a href="https://kernel.community" target="_blank">🌱 KERNEL</a> |
       @polats on <a href="https://www.twitter.com/polats" target="_blank">twitter</a>,
       <a href="https://www.github.com/polats" target="_blank"> github</a>,
-      <a href="https://www.medium.com/polats" target="_blank"> medium</a>,
+      <a href="https://www.medium.com/@polats" target="_blank"> medium</a>,
       <a href="https://www.dev.to/polats" target="_blank"> dev.to</a>,
       <a href="https://observablehq.com/@polats" target="_blank"> observable</a>
     </span>
