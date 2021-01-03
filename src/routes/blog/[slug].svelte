@@ -54,7 +54,7 @@
 	<meta property="og:description" content={post.excerpt} />
   
 <!--  Link to your preferred image  -->
-<!-- 	<meta property="og:image" content="" /> -->
+<!-- 	<meta property="og:image" content={"https://polats.com/blog/" + post.image} /> -->
   
 	<meta name="twitter:card" content="summary_large_image" />
   

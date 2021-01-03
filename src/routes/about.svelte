@@ -39,7 +39,7 @@
   Knowing this, I hope to help create games that will benefit the world.
   </p>
 
-  Powered by <a href="https://sapper.svelte.dev" target="_blank">Sapper</a>.
+  Site powered by <a href="https://sapper.svelte.dev" target="_blank">Sapper</a>.
   Template by <a href="https://github.com/Charca/sapper-blog-template" target="_blank">Maxi Ferreira</a>.
 
 </div>
