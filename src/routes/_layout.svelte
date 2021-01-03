@@ -46,7 +46,7 @@
 
   <footer>
     <span>
-      &copy; {new Date().getFullYear()} Paul Gadi |
+      &copy; {new Date().getFullYear()} <a href="https://www.linkedin.com/in/paulgadi/"  target="_blank">Paul Gadi</a> |
       <a href="https://outplay.games" target="_blank">OPGames</a> |
       <a href="https://game3js.com" target="_blank">game3.js</a> |
       <a href="https://kernel.community" target="_blank">🌱 KERNEL</a> |
