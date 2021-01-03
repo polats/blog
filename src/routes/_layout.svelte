@@ -50,10 +50,11 @@
       <a href="https://outplay.games" target="_blank">OPGames</a> |
       <a href="https://game3js.com" target="_blank">game3.js</a> |
       <a href="https://kernel.community" target="_blank">🌱 KERNEL</a> |
-      @polats on <a href="https://www.twitter.com/polats" target="_blank">twitter, </a>
-      <a href="https://www.github.com/polats" target="_blank">github, </a>
-      <a href="https://www.medium.com/polats" target="_blank">medium, </a>
-      <a href="https://www.dev.to/polats" target="_blank">dev.to </a>
+      @polats on <a href="https://www.twitter.com/polats" target="_blank">twitter</a>,
+      <a href="https://www.github.com/polats" target="_blank"> github</a>,
+      <a href="https://www.medium.com/polats" target="_blank"> medium</a>,
+      <a href="https://www.dev.to/polats" target="_blank"> dev.to</a>,
+      <a href="ttps://observablehq.com/@polats" target="_blank"> observable</a>
     </span>
   </footer>
 </div>

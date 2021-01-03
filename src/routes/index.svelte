@@ -32,7 +32,7 @@ import Bio from "../components/Bio.svelte"
 </style>
 
 <svelte:head>
-  <title>polats.com/blog</title>
+  <title>@polats (Paul Gadi)</title>
 </svelte:head>
 
 <div class="container">
@@ -42,7 +42,14 @@ import Bio from "../components/Bio.svelte"
     {/if}
     <div class="post-item">
       <h2>
-        <a rel='prefetch' href='blog/{post.slug}'>{post.title}</a>
+        <a rel='prefetch' href='blog/{post.slug}'>
+          {post.title}
+            {#if post.image}
+            <p>
+            <img src={post.image} alt={post.image} />
+            </p>
+            {/if}
+        </a>
       </h2>
       <p>{post.excerpt}</p>
       <div class="post-item-footer">
