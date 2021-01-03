@@ -54,7 +54,7 @@
       <a href="https://www.github.com/polats" target="_blank"> github</a>,
       <a href="https://www.medium.com/polats" target="_blank"> medium</a>,
       <a href="https://www.dev.to/polats" target="_blank"> dev.to</a>,
-      <a href="ttps://observablehq.com/@polats" target="_blank"> observable</a>
+      <a href="https://observablehq.com/@polats" target="_blank"> observable</a>
     </span>
   </footer>
 </div>
