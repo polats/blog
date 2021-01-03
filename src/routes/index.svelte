@@ -33,6 +33,22 @@ import Bio from "../components/Bio.svelte"
 
 <svelte:head>
   <title>@polats (Paul Gadi)</title>
+
+	<!-- Facebook Meta Tags -->
+	<meta property="og:url" content="https://polats.com">
+	<meta property="og:type" content="website">
+	<meta property="og:title" content="@polats (Paul Gadi)">
+	<meta property="og:description" content="Writing on Web 3.0 Game Development">
+	<meta property="og:image" content="https://polats.com/blog/gamingguild.jpg">
+	
+	<!-- Twitter Meta Tags -->
+	<meta name="twitter:card" content="summary_large_image">
+	<meta property="twitter:domain" content="polats.com">
+	<meta property="twitter:url" content="https://polats.com">
+	<meta name="twitter:title" content="@polats (Paul Gadi)">
+	<meta name="twitter:description" content="Writing on Web 3.0 Game Development">
+	<meta name="twitter:image" content="https://polats.com/blog/gamingguild.jpg">
+
 </svelte:head>
 
 <div class="container">

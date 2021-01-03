@@ -52,24 +52,24 @@
 	<meta property="og:title" content={post.title} />
 	<meta name="Description" content={post.excerpt} />
 	<meta property="og:description" content={post.excerpt} />
-  
-<!--  Link to your preferred image  -->
-<!-- 	<meta property="og:image" content={"https://polats.com/blog/" + post.image} /> -->
-  
+
 	<meta name="twitter:card" content="summary_large_image" />
   
 <!--  Link to your Domain  -->
-<!-- 	<meta name="twitter:domain" value="" /> -->
+ 	<meta name="twitter:domain" value="polats.com" />
   
 <!--  Link to your Twitter Account  -->
-<!-- 	<meta name="twitter:creator" value="" /> -->
+ 	<meta name="twitter:creator" value="@polats" />
   
 	<meta name="twitter:title" value={post.title} />
 	<meta name="twitter:description" content={post.excerpt} />
   
-<!--  Link to your preferred image to be displayed on Twitter (832x520px) -->
-<!-- 	<meta name="twitter:image" content="" /> -->
-  
+  <!--  Link to your preferred image  -->
+{#if post.image}
+	<meta name="twitter:image" content={"https://polats.com/blog/" + post.image} /> 
+  <meta property="og:image" content={"https://polats.com/blog/" + post.image} />
+  {/if}
+	<meta name="twitter:card" content="summary_large_image" />
 	<meta name="twitter:label1" value="Published on" />
 	<meta
 		name="twitter:data1"
