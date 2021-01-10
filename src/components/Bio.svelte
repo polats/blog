@@ -22,7 +22,7 @@
   <img src="profile-pic.png" alt="Paul Gadi">
   <p>
     🙏 Thanks for reading!
-    You can follow me on <a href="https://www.twitter.com/polats" target="_blank">Twitter</a>,
-    or see some of my work on <a href="https://www.github.com/polats" target="_blank">GitHub</a>.
+    You can reach me on <a href="https://www.twitter.com/polats" target="_blank">Twitter</a>,
+    or see some of my work on the links below.
   </p>
 </div>
