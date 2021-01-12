@@ -66,7 +66,7 @@ It may not be **Creative Chaos**, but hey, it works very, VERY well.
 
 Looking back at Flash's timeline and seeing the slower trickle of games as it nears its end-of-life, it saddens me that we might have lost the spark of innovation that it has started.
 
-<video controls loop width="100%">
+<video autoplay loop width="100%">
  <source src="https://www.flashgamehistory.com/video/FlashGames.mp4
 " type="video/mp4">
 </video>
